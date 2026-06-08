@@ -1,0 +1,2 @@
+# JavaScript-intern-
+Internship works  
